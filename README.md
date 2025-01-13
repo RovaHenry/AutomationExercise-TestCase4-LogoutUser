@@ -9,18 +9,12 @@ Steps Covered:
 3. Verify that the user is redirected to the login page or home page after logout.
 4. Confirm that no user session remains active and that restricted pages cannot be accessed.
 
-Tools & Technologies Used:
+Tools & Technologies Used: Selenium WebDriver, Mocha
 
-Selenium WebDriver
-Mocha
+Programming Language: JavaScript
 
-Programming Language:
+Browser: Google Chrome
 
-JavaScript
-Browser:
-
-Google Chrome
 Link to Test Case Documentation
 For more details, visit the official test case documentation: Automation Exercise - Test Case 4
 https://www.automationexercise.com/test_cases
-
