@@ -1,6 +1,10 @@
 # AutomationExercise-TestCase4-LogoutUser
+Test Case 4: Logout User
+
+This repository contains the implementation and documentation of Test Case 4 from Automation Exercise: "Logout User."
+
 Overview
-Test Case 4: The test case validates the application's behavior when a logged-in user attempts to log out. This ensures the logout functionality works correctly by ending the user session and redirecting the user to the appropriate page.
+The test case validates the application's behavior when a logged-in user attempts to log out. This ensures the logout functionality works correctly by ending the user session and redirecting the user to the appropriate page.
 
 Steps Covered:
 
